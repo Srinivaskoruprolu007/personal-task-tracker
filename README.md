@@ -9,4 +9,3 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # personal-task-tracker
->>>>>>> 5b1396af5a15d3dcbf2a9d2a91664e45aa3d6a73
